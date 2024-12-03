@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Training</title>
+        <style>
+            p{
+                text-align:center;
+                margin-left: 300px;
+                margin-right: 300px;
+            }
+            body{
+                height:100vh;
+                margin:0;
+                background: linear-gradient(to right, #5C4033 20%, #fff8dc 20%, #fff8dc 80%, #5C4033 80%);
+            }
+            
+        </style>
+    </head>
+    <body>
+        <h1 style="text-align:center; font-size:80px; ">SCHAAKLEGENDS</h1>
+        <figure>
+            <img src="https://cdn-icons-png.flaticon.com/512/5462/5462846.png" width="250" height="250" style="margin-left: 600px;"> 
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper rutrum condimentum. Praesent elementum leo at enim molestie maximus. Duis a odio sapien. Phasellus accumsan vehicula lacus non volutpat. Cras ut velit et lacus accumsan laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mollis orci eget libero lacinia congue. Curabitur eu purus arcu. Vestibulum nec nisi tristique, ornare dolor lacinia, convallis massa. Vestibulum varius tellus sollicitudin, pharetra odio vitae, pulvinar turpis. Morbi consequat dictum odio sit amet ultrices. Maecenas ac ullamcorper enim, non molestie sapien. Maecenas sagittis metus nec velit volutpat, eget viverra massa feugiat. Aliquam maximus lorem sed odio laoreet molestie.</p>
+        <label style="margin-left: 600px;" >username: </label>
+        <input id="my text"> <br> <br>
+        <button style="margin-left: 600px;" >submit</button><br> <br>
+        <button style="margin-left: 600px;" >register</button>
+        
+    </body>
+</html>
